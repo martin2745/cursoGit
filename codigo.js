@@ -20,7 +20,7 @@ if (isNaN(edad)) {
       categoria = "adulto";
       break;
     default:
-      alert("Modificado en master.");
+      alert("Modificado en ramaConflicto.");
   }
 
   if (categoria) {
