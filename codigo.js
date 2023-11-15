@@ -23,7 +23,7 @@ if (isNaN(edad)) {
       categoria = "xubilado";
       break;
     default:
-      alert("Idade fora do rango permitido.");
+      alert("Idade non válida.");
   }
 
   if (categoria) {
