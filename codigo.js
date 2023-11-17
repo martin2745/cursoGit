@@ -2,7 +2,9 @@ let edad = prompt("Por favor, introduce a túa idade:");
 edad = parseInt(edad);
 
 if (isNaN(edad)) {
-  alert("Por favor, introduce un número válido para a idade.");
+  alert(
+    "Por favor, introduce un número válido para a idade. Editado en rama rebaseB"
+  );
 } else {
   let categoria;
 
