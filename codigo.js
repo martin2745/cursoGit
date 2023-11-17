@@ -24,6 +24,6 @@ if (isNaN(edad)) {
   }
 
   if (categoria) {
-    alert("Eres un " + categoria + ".");
+    alert("Eres un " + categoria + "editada en rama rebaseB.");
   }
 }
