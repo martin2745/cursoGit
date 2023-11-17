@@ -8,7 +8,7 @@ if (isNaN(edad)) {
 
   switch (true) {
     case edad >= 0 && edad <= 12:
-      categoria = "neno";
+      categoria = "ninho";
       break;
     case edad >= 13 && edad <= 18:
       categoria = "adolescente";
