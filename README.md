@@ -2,7 +2,7 @@
 
 #### En este curso vamos a describir todo el funcionamiento de Git junto con GitHub desde lo más básico a lo más complejo.
 
-![Logo Git y GitHub](.\gitGithub.png)
+![Logo Git/GitHub](.\gitGithub.png)
 
 ## Temario
 
