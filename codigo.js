@@ -10,16 +10,16 @@ if (isNaN(edad)) {
 
   switch (true) {
     case edad >= 0 && edad <= 12:
-      categoria = "ninho";
+      categoria = "ninhO";
       break;
     case edad >= 13 && edad <= 18:
-      categoria = "muchacho";
+      categoria = "muchachO";
       break;
     case edad >= 19 && edad <= 30:
-      categoria = "xoven";
+      categoria = "xoveN";
       break;
     case edad >= 31 && edad <= 100:
-      categoria = "adulto";
+      categoria = "adultO";
       break;
     default:
       alert("Modificado en rebase.");
