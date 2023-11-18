@@ -16,7 +16,7 @@ if (isNaN(edad)) {
       categoria = "muchachO";
       break;
     case edad >= 19 && edad <= 30:
-      categoria = "xoven";
+      categoria = "xoveN";
       break;
     case edad >= 31 && edad <= 100:
       categoria = "adulto";
