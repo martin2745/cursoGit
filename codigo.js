@@ -3,7 +3,7 @@ edad = parseInt(edad);
 
 if (isNaN(edad)) {
   alert(
-    "Por favor, introduce un número válido para a idade. Editado en rama rebaseB"
+    "Por favor, introduce un número válido para a idade. Commit para arreglar Issue"
   );
 } else {
   let categoria;
