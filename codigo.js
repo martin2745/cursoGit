@@ -19,7 +19,7 @@ if (isNaN(edad)) {
       categoria = "xoveN";
       break;
     case edad >= 31 && edad <= 100:
-      categoria = "adulto";
+      categoria = "adultO";
       break;
     default:
       alert("Modificado en rebase.");
