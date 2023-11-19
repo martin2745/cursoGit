@@ -16,11 +16,14 @@ if (isNaN(edad)) {
     case edad >= 19 && edad <= 30:
       categoria = "xoven";
       break;
-    case edad >= 31 && edad <= 100:
+    case edad >= 31 && edad <= 64:
       categoria = "adulto";
       break;
+    case edad >= 65 && edad <= 100:
+      categoria = "xubilado";
+      break;
     default:
-      alert("Modificado en ramaConflicto.");
+      alert("Idade fora do rango permitido.");
   }
 
   if (categoria) {
