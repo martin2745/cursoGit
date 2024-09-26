@@ -14,7 +14,7 @@ Este ejercicio cubre una serie de conceptos fundamentales y avanzados de Git, co
 
 2. **Crear un `README.md` en la rama principal**:
 
-   - En la rama principal, crea un archivo `README.md` con el siguiente contenido: `Segunda tarea git`
+   - En la rama principal, crea un archivo `README.md` con el siguiente contenido: `Tarea git`
    - Añade un archivo adicional llamado `texto.txt`.
 
 3. **Crear dos ramas locales, `ramaA` y `ramaB`**:
