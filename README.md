@@ -4,6 +4,8 @@
 
 ![Logo Git y GitHub](./Recursos/gitGithub.png)
 
+[Apuntes PDF](./Apuntes/Temario/Curso%20GIT%20y%20GITHUB.pdf)
+
 [Cheat Sheet](./Apuntes/Temario/cheat%20sheet.pdf)
 
 ## Temario
