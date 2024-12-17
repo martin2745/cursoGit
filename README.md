@@ -8,24 +8,17 @@
 
 ## Temario
 
-- **Conceptos básicos**
-- **Ramas**
-- **Manejo de ramas y solución de conflictos**
-- **GitHub**
-- **Manejo de la seguridad de nuestro repositorio**
-- **Uso de Tags y Alias**
-- **Ramas remotas en GitHub**
-- **README y .gitignore**
-- **MarkDown**
-- **Git Rebase**
-- **Git Stash**
-- **Git Amend**
-- **Git Reset**
-- **Git Grep**
-- **Git Squash**
-- **Issues y Milestones**
-- **Wiki**
-- **Configura tu perfil de GitHub**
+- [Áreas de un proyecto git](01.md)
+- [Inicializar repositorio local](02.md)
+- [Revisar commits realizados](03.md)
+- [Etiquetar commits y ver diferencias](04.md)
+- [Crear repositorio remoto y subir commits locales](05.md)
+- [Deshacer cambios en repositorio local](06.md)
+- [Archivo .gitignore](07.md)
+- [Usando un par de claves SSH](08.md)
+- [Resolviendo conflictos](09.md)
+- [Creación de ramas](10.md)
+- [Fusión y eliminación de ramas](11.md)
 
 ## Conceptos
 
